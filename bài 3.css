@@ -1,0 +1,42 @@
+body{
+    background-color: #1C233D;
+}
+.logo-nav{
+    padding: 25px 50px ;
+    
+}
+.navbar{
+    max-width: auto;
+    
+}
+.logo{
+    color: #E5E5E5;
+    font-family: Space Grotesk;
+    font-size: 45px;
+    font-style: normal;
+    line-height: normal;
+    
+    margin-right: 100px;
+}
+.navbar a{
+    color: #E5E5E5;
+    font-family: Space Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    padding: 25px 50px;
+    line-height: normal;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.sn{
+    display: inline-flex;
+    padding: 8px 31px 9px 29px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: linear-gradient(86deg, rgba(191, 196, 238, 0.09) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0.00) 121.57%);
+}
